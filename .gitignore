@@ -1,5 +1,5 @@
-# Ignore the week_4 artists directory used in the exercises_4_api.ipynb notebook
-notebooks/week_04/artists
+.DS_Store
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
